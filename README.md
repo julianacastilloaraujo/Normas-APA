@@ -1,2 +1,2 @@
 # Normas-APA
-Documentación de "Normas APA" para la Universidad de Cundinamarca, Seccional Ubaté 🇨🇴 | Segmentación de los items, paginación, estructura y conclusiones parciales #APA
+* [Descarga de plantilla Normas APA](https://github.com/jlianacastillo/Normas-APA/files/14426521/plantilla.docx)
